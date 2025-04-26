@@ -1,1 +1,0 @@
-# Meus Primeiros Códigos Python
